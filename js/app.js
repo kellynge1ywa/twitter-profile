@@ -157,8 +157,32 @@ async function usertweets() {
 
                 </div>    
 
+         </div>   
+         
+         <div class="tweets">
+       
+         <div class="tweetsHeading">
+
+             <img class="profileImg2" src="/images/profileImg.jpg"/>
+             <div class="tweetContent">
+                 <h4> Nicholas Runolfsdottir V  <img class="image11" src="/images/verified.jpg"> <img class="image12" src="/images/twitter brave.png"> 
+                 <span class="handle" >@ Maxime_Nienow  .Mar 31</span> </h4>
+                 <p>${post.body}</p> 
+             
+             </div>
+             
+             
+
          </div>    
-    </div>
+
+  </div>    
+</div>
+   
+        
+        
+
+      
+</div>
    
    `
 
