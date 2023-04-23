@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(17, 16, 16);
+}
+
+.container {
+    /* margin: 4rem ; */
+    background: rgb(17, 16, 16);
+    width: 85%;
+    margin: auto;
+    color: #fff;
+}
+
+
+/* part1 styling */
+
+.part1 {
+    display: flex;
+    padding: 1rem;
+}
+
+.part11 {
+    /* display: flex; */
+    /* padding: 1rem; */
+    padding-left: 1.5rem;
+}
+
+.image1 {
+    width: 3%;
+    padding-left: 0.4rem;
+}
+
+.image2 {
+    width: 3%;
+    padding-left: 0.4rem;
+}
+
+
+/* part2 styling */
+
+.bg1 {
+    width: 100%;
+    height: 34vh;
+}
+
+
+/* profile section styling */
+
+.profile {
+    display: flex;
+    margin: 0 2rem
+}
+
+.profileImg {
+    width: 20%;
+    border-radius: 50%;
+    position: relative;
+    top: -4rem;
+}
+
+.userName {
+    position: relative;
+    top: -3rem;
+}
+
+.btnIcon {
+    padding-top: 1rem;
+}
+
+button {
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background: black;
+    color: #fff;
+    border: 1px solid #fff;
+    margin-left: 1rem;
+    position: relative;
+    top: -0.7rem;
+}
+
+.icon1 {
+    margin-left: 1rem;
+    padding: 0.4rem;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.icon2 {
+    margin-left: 1rem;
+    border-radius: 50%;
+    padding: 0.4rem;
+    border: 1px solid #fff;
+}
+
+.icon3 {
+    margin-left: 1rem;
+    padding: 0.4rem;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+
+/* user information styling */
+
+.userInfor {
+    margin: 0 2rem;
+}
+
+.link1 {
+    display: flex;
+    color: grey;
+}
+
+
+/* ion icon styling */
+
+.ion1 {
+    /* padding-left: 1rem; */
+}
+
+.ion2 {
+    padding-left: 1rem;
+}
+
+.ion3 {
+    padding-left: 1rem;
+}
+
+.L1 {
+    list-style-type: none;
+    padding-left: 0.5rem;
+    color: blue;
+}
+
+.span1 {
+    color: gray;
+}
+
+
+/* followers information styling */
+
+.followersInfo {
+    display: flex;
+    margin: 1rem 2rem;
+}
+
+.following {
+    display: flex;
+}
+
+.following p {
+    padding-left: 0.5rem;
+    padding-top: 0.3rem;
+    color: grey;
+}
+
+.followers {
+    display: flex;
+    padding-left: 1.5rem;
+}
+
+.followers p {
+    padding-left: 0.5rem;
+    padding-top: 0.3rem;
+    color: gray;
+}
+
+
+/* followed information styling */
+
+.followedInfo {
+    display: flex;
+    margin: 1rem 2rem;
+}
+
+.image3 {
+    border-radius: 50%;
+    width: 5%;
+}
+
+.image4 {
+    border-radius: 50%;
+    width: 5%;
+    left: -2rem;
+}
+
+.image5 {
+    border-radius: 50%;
+    width: 5%;
+    left: -2rem;
+}
+
+
+/* part 4 styling */
+
+.part4 {
+    display: flex;
+    padding-top: 2rem;
+    justify-content: space-around;
+    border-bottom: 2px solid grey;
+}
+
+.posts {
+    border-bottom: 6px solid rgb(98, 98, 173);
+    border-radius: 0.2rem;
+    padding-bottom: 1rem;
+}
+
+
+/* user tweets styling */
+
+.ion-icon {
+    padding-left: 65rem;
+}
+
+.tweets {
+    display: flex;
+    margin: 0 2rem;
+}
+
+.profileImg2 {
+    width: 8%;
+    border-radius: 50%;
+}
+
+.Name {
+    font-size: 50px;
+}
+
+.handle {
+    color: grey;
+}
+
+.image11 {
+    width: 2%;
+}
+
+.image12 {
+    width: 2%;
+}
+
+.tweetContent {
+    padding-left: 1rem;
+}
+
+.tweetsHeading {
+    display: flex;
+}
